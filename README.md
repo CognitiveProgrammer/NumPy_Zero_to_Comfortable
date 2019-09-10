@@ -12,3 +12,5 @@ __Jupyter Notebook__ --> [NumPy Part - 1](https://github.com/CodesBay/NumPy_Zero
 
 __Please find the YouTube video for the same @__ https://youtu.be/NLg6hnSdutA
 
+__Jupyter Notebook__ --> [NumPy Part - 2](https://github.com/CodesBay/NumPy_Zero_to_Comfortable/blob/master/Python%20Data%20Science%20-%20NumPy%20Part%20-%202.ipynb)
+
